@@ -47,6 +47,30 @@ The "Department Store Sales Dashboard" empowers users with a rich set of feature
 <be>
   
 ## <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif height=45 width=45> Visualization:
+
+**Revenue by Channel**
+
+<img src=https://github.com/Parthiban492/Department_store_sales_dashboard/blob/main/Presentation/Revenue%20by%20Channel.png height=400 width=1200>
+
+
+
+
+**Revenue by ProductGroup**
+
+<img src=https://github.com/Parthiban492/Department_store_sales_dashboard/blob/main/Presentation/Revenue%20by%20Productgroup.png height=400 width=1200>
+
+
+
+
+**Top Performing Salesperson based on Revenue Generated**
+
+<img src=https://github.com/Parthiban492/Department_store_sales_dashboard/blob/main/Presentation/Revenue%20by%20Salesperson.png height=400 width=1200>
+
+
+
+
+**Dashboard with all required Insights**
+
 <img src=https://github.com/Parthiban492/Department_store_sales_dashboard/blob/main/Presentation/Output.png height=400 width=1200>
 <be>
 
